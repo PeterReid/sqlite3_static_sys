@@ -2,6 +2,7 @@
 name = "sqlite3_static_sys"
 version = "3.8.10"
 authors = ["Peter Reid <peter.d.reid@gmail.com>"]
+license = "MIT"
 
 build = "build.rs"
 
